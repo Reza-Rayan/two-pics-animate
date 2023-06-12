@@ -8,7 +8,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 
 ### Links
- [- Live Site URL](https://amazing-cendol-1a2614.netlify.app)
+ [- Live Site URL](https://aesthetic-hotteok-4e6e3f.netlify.app/)
 
 ### Built with
 
